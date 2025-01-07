@@ -45,7 +45,7 @@ Following the shutdown of 911 Proxy in July 2022, the demand for residential pro
 <li>Pros:</li>
 <li>Large, global IP pool.</li>
 <li>High success rate and fast speeds.</li>
-<li>Free trial for testing.</li>
+<li><a href="https://momoproxy.com">Free trial for testing.</a></li>
 <li>Cons:</li>
 <li>Lacks HTTP protocol for some use cases.</li>
 
